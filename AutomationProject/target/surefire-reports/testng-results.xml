@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="146" started-at="2023-07-24T14:39:42 CDT" finished-at="2023-07-24T14:39:42 CDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="146" started-at="2023-07-24T14:39:42 CDT" finished-at="2023-07-24T14:39:42 CDT">
+      <class name="runner.TestNGCucumber">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.TestNGCucumber@3cef309d]" name="setUpClass" is-config="true" duration-ms="123" started-at="2023-07-24T14:39:42 CDT" finished-at="2023-07-24T14:39:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:runner.TestNGCucumber@3cef309d]" name="afterClass" is-config="true" duration-ms="7" started-at="2023-07-24T14:39:42 CDT" finished-at="2023-07-24T14:39:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- runner.TestNGCucumber -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
